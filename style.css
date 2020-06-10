@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(68, 109, 110);
+}
+
+body h1 {
+    color: white;
+    text-align: center;
+    font-size: 4em;
+}
+
+.contar-container {
+    width: 400px;
+    background-color: white;
+    display: flex;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.contar-content {
+    font-size: 1.3em;
+    margin: 10px 20px;
+    
+}
+
+#fim-number {
+    margin-left: 15px;
+}
+
+#passo-number {
+    margin-left: 3px;
+}
+
+#contar-button {
+    height: 28px;
+    width: 110px;
+    font-size: 20px;
+    background-color: rgb(68, 109, 110);
+    color: white;
+    border: 1px solid rgb(68, 109, 110);
+    border-radius: 3px;
+}
+
+#inicio-number, #fim-number, #passo-number {
+    font-size: 15px;
+}
+
+footer { 
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 30px; 
+}
